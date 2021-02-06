@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\javaagents",
+    "\\javaagents\\src",
+    "\\javaagents\\src\\main",
+    "\\javaagents\\src\\main\\java",
+    "\\javaagents\\src\\main\\java\\massim",
+    "\\javaagents\\src\\main\\java\\massim\\javaagents",
+    "\\javaagents\\src\\main\\java\\massim\\javaagents\\agents",
+    "\\server",
+    "\\server\\conf",
+    "\\server\\conf\\server"
+  ],
+  "SelectedNode": "\\javaagents\\src\\main\\java\\massim\\javaagents\\agents\\DeliveryAgent.java",
+  "PreviewInSolutionExplorer": false
+}
